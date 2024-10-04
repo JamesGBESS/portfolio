@@ -47,20 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Je m'appelle GBESSEMEHLAN James Owen F. développeur full stack passionné, j'ai eu la chance de suivre une
-        formation intensive à la Coding Academy by EPITECH-Bénin, où j'ai
-        acquis des compétences solides en développement web et mobile. Cette
-        expérience m'a permis de maîtriser des technologies de pointe tout en
-        travaillant sur des projets concrets, me préparant ainsi à relever des
-        défis dans des environnements exigeants. Actuellement en formation de
-        licence à l'Institut de Formation et de Recherche en Informatique
-        (IFRI), je continue d'enrichir mes connaissances et de perfectionner mes
-        compétences. Mon expertise couvre une large gamme de technologies,
-        allant de la création d'interfaces utilisateur dynamiques à la gestion
-        de back-ends performants et sécurisés. Je suis constamment à la
-        recherche de nouveaux défis technologiques pour innover et apporter des
-        solutions adaptées aux besoins des utilisateurs, tout en garantissant
-        une architecture robuste et évolutive.
+           Je m'appelle GBESSEMEHLAN James Owen F., développeur full stack passionné, formé à la Coding Academy by EPITECH-Bénin. Actuellement en licence à l'Institut de Formation et de Recherche en Informatique (IFRI), j'ai acquis des compétences solides en développement web et mobile. Mon expertise va de la création d'interfaces dynamiques à la gestion de back-ends performants. Je recherche continuellement de nouveaux défis technologiques pour innover et offrir des solutions adaptées aux besoins des utilisateurs.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
